@@ -1,0 +1,101 @@
+index,product_id,prediction
+55900,51cMWaTMF+L.jpg,18 centimetre
+55901,51cMZ+MvMcL.jpg,4 centimetre
+55902,51cMZ+MvMcL.jpg,23 centimetre
+55903,51cMfdP4PYL.jpg,7 centimetre
+55904,51cMiai8QoL.jpg,7.5 centimetre
+55905,51cMymfLx6L.jpg,10 gram
+55906,51cNNjXbSES.jpg,30 centimetre
+55907,51cNNjXbSES.jpg,30 centimetre
+55908,51cNStN3sZL.jpg,3.5 inch
+55909,51cNaaBH2KL.jpg,4 inch
+55910,51cNeb4TMBL.jpg,12 volt
+55911,51cNeb4TMBL.jpg,12 volt
+55912,51cNoOObupL.jpg,43 centimetre
+55913,51cNvimZlKL.jpg,10.4 centimetre
+55914,51cNwEL18YL.jpg,"The depth of the item in the image cannot be precisely determined as it is not provided within the bounding box coordinates or any other contextual information. Depth measurement typically requires specific dimensions or a reference point for scale, neither of which are available from the given data. To accurately extract the depth, one would need additional details such as the height, width, and depth measurements of the object, or a view that includes these dimensions."
+55915,51cO0I8FhnL.jpg,18 volt
+55916,51cO6FehbSL.jpg,35 centimetre
+55917,51cO6FehbSL.jpg,13.7 in /
+55918,51cO72iGZUL.jpg,10 gram
+55919,51cOHK1fTPL.jpg,2.5 centimetre
+55920,51cOHK1fTPL.jpg,2.5 centimetre
+55921,51cOLxenctL.jpg,4 centimetre
+55922,51cOaMuCgPL.jpg,13.4 inch
+55923,51cOeQ050tL.jpg,34
+55924,51cOeQ050tL.jpg,13 inch
+55925,51cOmouY5QL.jpg,190 centimetre
+55926,51cOqg6JZHL.jpg,13.78 inch
+55927,51cOqqVBgTL.jpg,130
+55928,51cOqqVBgTL.jpg,130
+55929,51cOwhxGiGL.jpg,7 .
+55930,51cOwhxGiGL.jpg,8 .
+55931,51cOzSK3HLL.jpg,20 centimetre
+55932,51cPCNSFH5L.jpg,7 centimetre
+55933,51cPCNSFH5L.jpg,7 centimetre
+55934,51cPCNSFH5L.jpg,5 centimetre
+55935,51cPG6woGXL.jpg,65 millimetre
+55936,51cPG6woGXL.jpg,180 millimetre
+55937,51cPH6ZcAuL.jpg,5 .
+55938,51cPPYbuxaL.jpg,76 millimetre
+55939,51cPPYbuxaL.jpg,76
+55940,51cPXQWfptL.jpg,6.5 centimetre
+55941,51cPXQWfptL.jpg,7 centimetre
+55942,51cPepG9KoL.jpg,30 kilogram
+55943,51cPi4ylJ6L.jpg,75.5 inch
+55944,51cPpxVMDOL.jpg,140 centimetre
+55945,51cQ-sVuWuL.jpg,5.4 inch
+55946,51cQ-sVuWuL.jpg,8.7 inch
+55947,51cQAlHtcmL.jpg,12 inch
+55948,51cQBMDeaeS.jpg,11 .
+55949,51cQBMDeaeS.jpg,16 .
+55950,51cQa9QDWFL.jpg,40 lbs
+55951,51cQirGk0hL.jpg,4.2 millimetre
+55952,51cQn0RkNyL.jpg,9 centimetre
+55953,51cR2AS9sYS.jpg,27
+55954,51cR7IaPolS.jpg,128 centimetre
+55955,51cRCbYlO0L.jpg,13 centimetre
+55956,51cRCbYlO0L.jpg,13 centimetre
+55957,51cRJ558DdS.jpg,6.3 centimetre
+55958,51cRJs2IaCL.jpg,3.5 inch
+55959,51cRJs2IaCL.jpg,16 centimetre
+55960,51cRMn63aCL.jpg,63 millimetre
+55961,51cRSjx5EPL.jpg,6.3 inch
+55962,51cRcLJN8eL.jpg,220 lbs
+55963,51cRjBkEBcL.jpg,12
+55964,51cRsvP6fBL.jpg,12
+55965,51cRsvP6fBL.jpg,"The image provided does not include any depth information. Depth is a spatial dimension that can be inferred from perspective, but the flat nature of the image and lack of context or reference points make it impossible to accurately determine the depth of these brown paper bags. To provide an accurate measurement, we would need additional information such as the distance between the camera and the objects in the picture or a clear view of the environment where the bags are located."
+55966,51cRveTBK+L.jpg,270 centimetre
+55967,51cSP9yfS5L.jpg,20000 mah
+55968,51cSc72xUWL.jpg,5
+55969,51cSc72xUWL.jpg,5 inch
+55970,51cSmrn2PhL.jpg,220 lbs
+55971,51cSodt5+tL.jpg,60 centimetre
+55972,51cSodt5+tL.jpg,43 centimetre
+55973,51cSodt5+tL.jpg,43 centimetre
+55974,51cSxK8eSYL.jpg,255 millimetre
+55975,51cSxK8eSYL.jpg,255
+55976,51cT-3po4YL.jpg,10.9 centimetre
+55977,51cT7gi-RoL.jpg,27
+55978,51cTHR3ShKL.jpg,10 gram
+55979,51cTJO0FDdL.jpg,180 kilogram
+55980,51cTJO0FDdL.jpg,15 kilogram
+55981,51cTLruEeAL.jpg,32
+55982,51cTPnWBApL.jpg,6.8 centimetre
+55983,51cTTrW6cmL.jpg,9 centimetre
+55984,51cTTrW6cmL.jpg,9 centimetre
+55985,51cTTrW6cmL.jpg,9 centimetre
+55986,51cTYWr+1tL.jpg,37 centimetre
+55987,51cTdt3dJOL.jpg,17.2 centimetre
+55988,51cTe9ZV9RL.jpg,1.4 inch
+55989,51cTe9ZV9RL.jpg,1.4 inch
+55990,51cTe9ZV9RL.jpg,1.4 inch
+55991,51cTf6J30qL.jpg,6.5 in/
+55992,51cTf6J30qL.jpg,6.5 inch
+55993,51cTpXPZrPL.jpg,28 gram
+55994,51cTsuoppvL.jpg,10.6 centimetre
+55995,51cTsuoppvL.jpg,14.8 centimetre
+55996,51cTy+FtGCL.jpg,350 millimetre
+55997,51cTy+FtGCL.jpg,40
+55998,51cU1+G6UKL.jpg,1 pound
+55999,51cUVhVOkaL.jpg,9 .
